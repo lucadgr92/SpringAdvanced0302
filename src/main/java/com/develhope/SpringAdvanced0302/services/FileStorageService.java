@@ -15,7 +15,7 @@ import java.util.UUID;
 @Service
 public class FileStorageService {
 
-    @Value("{fileUploadFolder}")
+    @Value("${fileUploadFolder}")
     private String fileRepositoryFolder;
 
 

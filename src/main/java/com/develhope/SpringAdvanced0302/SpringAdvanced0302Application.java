@@ -11,6 +11,3 @@ public class SpringAdvanced0302Application {
 	}
 
 }
-/*
-
-	Create a download controller to download the previouslly uploaded file*/
